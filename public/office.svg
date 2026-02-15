@@ -1,0 +1,28 @@
+<svg viewBox="0 0 300 200" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="300" height="200" fill="#F0F4FF"/>
+  
+  <!-- Building/Office -->
+  <rect x="30" y="60" width="240" height="120" fill="#E8EEF7" stroke="#0055CC" stroke-width="2"/>
+  
+  <!-- Windows -->
+  <rect x="50" y="80" width="30" height="30" fill="#87CEEB" stroke="#0055CC" stroke-width="1"/>
+  <rect x="50" y="125" width="30" height="30" fill="#87CEEB" stroke="#0055CC" stroke-width="1"/>
+  <rect x="100" y="80" width="30" height="30" fill="#87CEEB" stroke="#0055CC" stroke-width="1"/>
+  <rect x="100" y="125" width="30" height="30" fill="#87CEEB" stroke="#0055CC" stroke-width="1"/>
+  <rect x="150" y="80" width="30" height="30" fill="#87CEEB" stroke="#0055CC" stroke-width="1"/>
+  <rect x="150" y="125" width="30" height="30" fill="#87CEEB" stroke="#0055CC" stroke-width="1"/>
+  <rect x="200" y="80" width="30" height="30" fill="#87CEEB" stroke="#0055CC" stroke-width="1"/>
+  <rect x="200" y="125" width="30" height="30" fill="#87CEEB" stroke="#0055CC" stroke-width="1"/>
+  
+  <!-- Door -->
+  <rect x="130" y="155" width="40" height="25" fill="#00AA44" stroke="#0055CC" stroke-width="2"/>
+  <circle cx="168" cy="168" r="2" fill="#FFD700"/>
+  
+  <!-- Roof -->
+  <polygon points="30,60 150,20 270,60" fill="#0055CC"/>
+  
+  <!-- Flag -->
+  <rect x="148" y="15" width="4" height="30" fill="#333"/>
+  <rect x="152" y="15" width="30" height="15" fill="#00AA44"/>
+</svg>
