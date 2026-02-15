@@ -1,2 +1,10 @@
 name = "eliteconsult-website"
-pages_build_output_dir = ".next"
+type = "javascript"
+compatibility_date = "2026-02-15"
+
+[build]
+command = "npm run build"
+cwd = "./"
+
+[site]
+bucket = ".next/static"
