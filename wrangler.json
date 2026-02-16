@@ -1,0 +1,17 @@
+{
+  "name": "eliteconsult-website",
+  "type": "javascript",
+  "main": ".next/server/entry.js",
+  "site": {
+    "bucket": ".next/static"
+  },
+  "build": {
+    "command": "npm run build"
+  },
+  "env": {
+    "production": {
+      "name": "eliteconsult-website"
+    }
+  },
+  "pages_build_output_dir": ".next"
+}
